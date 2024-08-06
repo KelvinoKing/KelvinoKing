@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KelvinoKing
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Software Engineering at ALX
+- 👀 I am a Software Engineering
+- 🌱 I am a graduate from Software Engineering at ALX
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me via email >>> kelvinoking@outlook.com
 
